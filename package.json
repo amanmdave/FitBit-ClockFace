@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "c5b82be1-a9ea-4907-9573-2a5e9f060488",
+    "appType": "clockface",
+    "appDisplayName": "MessiClockFace",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "MessiClockFace"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
